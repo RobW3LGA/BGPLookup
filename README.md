@@ -1,4 +1,4 @@
-# BGPLookup
+# BGPLookup [![Build Status](https://travis-ci.com/RobW3LGA/BGPLookup.svg?branch=master)](https://travis-ci.com/RobW3LGA/BGPLookup)
 A sandcastle built with a bulldozer.
 
 # Project: Build a CLI tool using Python
