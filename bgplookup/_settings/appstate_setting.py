@@ -1,7 +1,7 @@
 appState: dict = {
 
   'appName': 'bgplookup',
-  'appVersion': '0.1.0',
+  'appVersion': '0.1.1',
   'asnLowValue': 1,
   'asnHighValue': 64496,
   'ixLowValue': 1,
